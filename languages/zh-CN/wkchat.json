@@ -1,0 +1,16 @@
+{
+  "wkchat": "悟空会话",
+  "loading": "正在加载会话…",
+  "load_error": "加载失败，请重试",
+  "retry": "重试",
+  "empty": "暂无会话",
+  "pin": "置顶会话",
+  "unpin": "取消置顶",
+  "remark_add": "添加备注",
+  "remark_edit": "修改备注",
+  "remark_clear": "清除备注",
+  "delete": "删除会话",
+  "restore": "恢复会话",
+  "cancel": "取消",
+  "call_message": "通话消息"
+}
