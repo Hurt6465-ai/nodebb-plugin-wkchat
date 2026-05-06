@@ -1,0 +1,23 @@
+{
+  "id": "nodebb-plugin-wkchat",
+  "name": "WKChat Wukong Conversation List",
+  "description": "Replaces the NodeBB chat conversation list with a Wukong IM powered conversation list.",
+  "url": "https://bbs.886.best",
+  "library": "./library.js",
+  "hooks": [
+    {
+      "hook": "static:app.load",
+      "method": "init"
+    }
+  ],
+  "scripts": [
+    "public/client.js"
+  ],
+  "scss": [
+    "public/style.scss"
+  ],
+  "languages": "languages",
+  "nbbpm": {
+    "compatibility": "^3.0.0 || ^4.0.0"
+  }
+}
