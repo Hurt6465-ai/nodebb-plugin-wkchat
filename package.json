@@ -1,0 +1,16 @@
+{
+  "name": "nodebb-plugin-wkchat",
+  "version": "19.10.14",
+  "description": "nodebb会话列表",
+  "main": "library.js",
+  "license": "UNLICENSED",
+  "keywords": [
+    "nodebb",
+    "nodebb-plugin",
+    "wkchat",
+    "wukongim"
+  ],
+  "nbbpm": {
+    "compatibility": "^3.0.0 || ^4.0.0"
+  }
+}
